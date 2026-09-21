@@ -1,3 +1,1 @@
-# Merging-conflicts
-
-LOCAL 
+LOCAL
