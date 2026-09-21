@@ -1,3 +1,3 @@
 # Merging-conflicts
 
-REMOTE
+LOCAL 
